@@ -1,5 +1,4 @@
-# aa-module
-Eurorack Amplifier/Attenuator Module
+# Eurorack Amplifier/Attenuator Module
 
 ![Finished module](https://github.com/danja/aa-module/blob/main/images/module-finished-1024x483.jpeg)
 Supporting material for blog posts :
